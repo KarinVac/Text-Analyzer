@@ -1,5 +1,4 @@
 TEXT ANALYZER
-```
 
 
 credentials.py
@@ -28,7 +27,7 @@ A program that can process any text of arbitrary length and extract various info
     - sum of all numbers (not digits) in the text
 
 5. The program will display a simple bar chart representing the frequency of different word lengths in the text. For example:
-
+```
   7| * 1
   8| *********** 11
   9| *************** 15
@@ -69,5 +68,5 @@ LEN|  OCCURENCES  |NR.
 
 If the user is not registered:
 
-$ python project1.py username:marek password:123```
+$ python project1.py username:marek password:123
 Unregistered user, terminating the program...
