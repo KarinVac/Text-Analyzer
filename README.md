@@ -34,7 +34,9 @@ A program that can process any text of arbitrary length and extract various info
  10| ********* 9
  11| ********** 10
 
-```After running the program, it should proceed as follows:```
+```
+After running the program, it should proceed as follows:
+```
 
 $ python projekt1.py
 username:bob
@@ -66,7 +68,9 @@ LEN|  OCCURENCES  |NR.
  10|*             |1
  11|*             |1
 
-```If the user is not registered:```
+```
+If the user is not registered:
+```
 
 $ python project1.py username:marek password:123
 Unregistered user, terminating the program...
