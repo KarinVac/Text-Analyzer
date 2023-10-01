@@ -1,4 +1,5 @@
 TEXT ANALYZER
+```
 
 
 credentials.py
@@ -36,7 +37,7 @@ A program that can process any text of arbitrary length and extract various info
 
 After running the program, it should proceed as follows:
 
-```$ python projekt1.py
+$ python projekt1.py
 username:bob
 password:123
 ----------------------------------------
@@ -68,5 +69,5 @@ LEN|  OCCURENCES  |NR.
 
 If the user is not registered:
 
-$ python project1.py username:marek password:123
-Unregistered user, terminating the program...```
+$ python project1.py username:marek password:123```
+Unregistered user, terminating the program...
